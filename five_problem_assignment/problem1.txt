@@ -3,4 +3,5 @@
 1b) Answer: True
    Justification: Because, the object referred by both 'A' and 'B' is same i.e., 'qwertyuiop1234567890qaz'. So id(A) will 
    be eqaul to id(B).
+1c)
 
